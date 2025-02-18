@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/YuweiZhou1026)
+[![yuwei](https://img.shields.io/badge/yuwei-github-blue?logo=github)](https://github.com/YuweiZhou1026)
 
 I am currently studying information security at Henan University and have a Ph.D. in the Laboratory of Cryptography and Information Security at Xiamen University, under the supervision of Associate Professor Shen Yaobin.
 
