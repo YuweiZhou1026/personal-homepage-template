@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![yuwei](https://img.shields.io/badge/yuwei-github-blue?logo=github)](https://github.com/YuweiZhou1026)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently studying information security at Henan University and have a Ph.D. in the Laboratory of Cryptography and Information Security at Xiamen University, under the supervision of Associate Professor Shen Yaobin.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>yuweizhou26@163.com</code>  
+<code>1604143616@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Henan University**, Master of Information Security (2021 – 2025)  
+• GPA: 3.58/4.00  
+• rank 1
 
 #### Research Interests  
-XX, XX, XX, XX.
+symmetric-key cryptography, KDF.
